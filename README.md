@@ -8,10 +8,7 @@ It performs four operations:
 - Multiplication (*)
 - Division (/)
 
----
 
 ## 🚀 How to Run
 
 ### 1️⃣ Compile
-```bash
-g++ calculator.cpp -o calculator
