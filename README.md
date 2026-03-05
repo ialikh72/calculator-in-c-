@@ -10,5 +10,5 @@ It performs four operations:
 
 
 ## 🚀 How to Run
-
-### 1️⃣ Compile
+Compile the program.
+output will be shown
