@@ -8,7 +8,6 @@ It performs four operations:
 - Multiplication (*)
 - Division (/)
 
-
 ## 🚀 How to Run
 Compile the program.
 output will be shown
