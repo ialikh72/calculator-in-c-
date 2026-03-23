@@ -10,4 +10,4 @@ It performs four operations:
 
 ## 🚀 How to Run
 Compile the program.
-output will be shown
+output will be shown.
